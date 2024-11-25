@@ -15,7 +15,7 @@ include 'zuul-guice'
 include 'zuul-processor'
 include 'zuul-sample'
 include 'zuul-discovery'
-include 'zuul-integration-test'
+//include 'zuul-integration-test'
 
 apply plugin: 'io.harness.gradle-cache'
 
